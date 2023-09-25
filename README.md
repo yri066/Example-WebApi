@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/7538589b-305b-4ac4-9289-06ba99ec40ac)](https://codebeat.co/projects/github-com-yri066-example-webapi-main)
 # Example-WebApi
 
 Нужно создать базу данных состоящую из нескольких таблиц, для запросов использовать Linq2db
